@@ -3,7 +3,7 @@
 ### [ES]   
 **¡Bienvenidos a mi repositorio de WriteUps de Hack The Box!**   
 Aquí encontrarás un índice bien estructurado con enlaces directos a los artículos que he publicado en Medium.  
-Espero que el contenido te sea útil y te acompañe en tu camino de aprendizaje. ¡Mucho éxito en este emocionante viaje por la ciberseguridad!
+Espero que el contenido te sea útil y te acompañe en tu camino de aprendizaje. ¡Mucho éxito en este emocionante viaje por la ciberseguridad!  
 📂 [Índice de Write-Ups (ES)](https://github.com/JPablo13/HTB-Writeups/blob/main/ES/%C3%8Dndice%20de%20Write-Ups.md)  
 📝 O visita directamente mi perfil en Medium: [JPablo13](https://medium.com/@pablo13villalobos)
 
