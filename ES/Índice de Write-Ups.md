@@ -6,25 +6,21 @@ Este índice se divide en dos partes: *máquinas* y *challenges*, los cuales se 
 ## 🧩 Challenges
 
 ### 🌐 Web
-- [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-es-4c4e26521d61)
-- [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-es-6c1fef95d1fe)
-- OnlyHacks *(En proceso)*
+- [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-es-4c4e26521d61) - Very Easy
+- [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-es-6c1fef95d1fe) - Very Easy
+- OnlyHacks *(En proceso)* - Very Easy
 
 ### 🔐 Crypto
-- Alphascii Clashing *(En proceso)*
-- Brevi Moduli *(En proceso)*
-- Sekur Julius *(En proceso)*
 
 ---
 
 ## 💻 Máquinas
 
 ### 🐧 Linux
-- LinkVortex *(En proceso)*
-- Cap *(En proceso)*
+- LinkVortex *(En proceso)* - Easy
+- Cap *(En proceso)* - Easy
 
 ### 🪟 Windows
-- Hospital *(En proceso)*
-- Support *(En proceso)*
+- Hospital *(En proceso)* - Medium
 
 ### 🧪 Otro
