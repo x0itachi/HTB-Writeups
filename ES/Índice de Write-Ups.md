@@ -6,8 +6,8 @@ Este índice se divide en dos partes: *máquinas* y *challenges*, los cuales se 
 ## 🧩 Challenges
 
 ### 🌐 Web
-- [Flag Command](#)
-- [Spookifier](#)
+- [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-es-4c4e26521d61)
+- [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-es-6c1fef95d1fe)
 - OnlyHacks *(En proceso)*
 
 ### 🔐 Crypto
