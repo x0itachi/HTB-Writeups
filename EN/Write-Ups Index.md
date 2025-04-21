@@ -6,25 +6,22 @@ This index is divided into two parts: *machines* and *challenges*, which are gro
 ## 🧩 Challenges
 
 ### 🌐 Web
-- [Flag Command](#)
-- [Spookifier](#)
-- OnlyHacks *(In progress)*
+- [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-en-f387461ef976) - Very Easy
+- [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-en-51e5c29e8e7f) - Very Easy
+- OnlyHacks *(En proceso)* - Very Easy
 
 ### 🔐 Crypto
-- Alphascii Clashing *(In progress)*
-- Brevi Moduli *(In progress)*
-- Sekur Julius *(In progress)*
 
 ---
 
 ## 💻 Machines
 
 ### 🐧 Linux
-- LinkVortex *(In progress)*
-- Cap *(In progress)*
+- LinkVortex *(En proceso)* - Easy
+- Cap *(En proceso)* - Easy
 
 ### 🪟 Windows
-- Hospital *(In progress)*
-- Support *(In progress)*
+- Hospital *(En proceso)* - Medium
 
-### 🧪 Other
+### 🧪 Otro
+
