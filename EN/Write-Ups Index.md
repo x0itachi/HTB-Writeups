@@ -3,25 +3,20 @@ This index is divided into two parts: *machines* and *challenges*, which are gro
 
 ---
 
-## 🧩 Challenges
+## 💻 Machines
 
-### 🌐 Web
-- [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-en-f387461ef976) - Very Easy
-- [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-en-51e5c29e8e7f) - Very Easy
-- OnlyHacks *(En proceso)* - Very Easy
-
-### 🔐 Crypto
+|  Name   |   Operating System  |  Difficulty   |   Link  |
+| --- | --- | --- | --- |
+| LinkVortex |🐧 Linux | Easy | *(In progress)* |
+| Hospital | 🪟 Windows | Medium | *(In progress)* |
+| Cap | 🐧 Linux | Easy | *(In progress)* |
 
 ---
 
-## 💻 Machines
+## 🧩 Challenges
 
-### 🐧 Linux
-- LinkVortex *(En proceso)* - Easy
-- Cap *(En proceso)* - Easy
-
-### 🪟 Windows
-- Hospital *(En proceso)* - Medium
-
-### 🧪 Otro
-
+|  Name   |   Category  |  Difficulty   |   Link  |
+| --- | --- | --- | --- |
+| Flag Command |🌐 Web | Very Easy | [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-en-f387461ef976) |
+| Spookifier |🌐 Web | Very Easy | [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-en-51e5c29e8e7f) |
+| OnlyHacks | 🌐 Web | Very Easy | *(In progress)* |
