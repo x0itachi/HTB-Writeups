@@ -7,7 +7,7 @@ This index is divided into two parts: *machines* and *challenges*, which are gro
 
 |  Name   |   Operating System  |  Difficulty   |   Link  |
 | --- | --- | --- | --- |
-| LinkVortex |🐧 Linux | Easy | *(In progress)* |
+| LinkVortex |🐧 Linux | Easy | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-en-5d467f2eec8b) |
 | Hospital | 🪟 Windows | Medium | *(In progress)* |
 | Cap | 🐧 Linux | Easy | *(In progress)* |
 
