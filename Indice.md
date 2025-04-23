@@ -3,8 +3,6 @@
 Bienvenidos al índice de mis Write-Ups de Hack The Box. 
 Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por categoría para facilitar acceso.
 
-🔚 Gracias por leer. ¡Sigue practicando el hacking ético y aprendiendo! 💻🚀
-
 ---
 
 ## 📑 Índice general
