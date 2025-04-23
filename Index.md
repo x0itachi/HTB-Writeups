@@ -3,8 +3,6 @@
 Welcome to the index of my Hack The Box write-ups.  
 This index is divided into two sections: **_machines_** and **_challenges_**, grouped by category for better readability and access.  
 
-🔚 **Thanks for reading — keep hacking ethically and keep learning!** 💻🚀
-
 ---
 
 ## 📑 Quick Navigation
@@ -18,8 +16,8 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 | Name         | Operating System | Difficulty | Write-Up                                                                                           | Status              |
 |--------------|------------------|------------|----------------------------------------------------------------------------------------------------|---------------------|
 | LinkVortex   | 🐧 Linux          | Easy       | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-en-5d467f2eec8b) | ✅ Published         |
+| Administrator| 🪟 Windows        | Medium     | *(Coming soon)*                                                                                    | 🚧 In progress       |
 | Hospital     | 🪟 Windows        | Medium     | *(Coming soon)*                                                                                    | 🚧 In progress       |
-| Cap          | 🐧 Linux          | Easy       | *(Coming soon)*                                                                                    | 🚧 In progress       |
 
 ---
 
