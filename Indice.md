@@ -15,8 +15,8 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 
 | Nombre       | Sistema Operativo | Dificultad | Write-Up                                                                                           | Estado              |
 |--------------|-------------------|------------|-----------------------------------------------------------------------------------------------------|---------------------|
-| LinkVortex   | 🐧 Linux           | Easy      | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-en-5d467f2eec8b) | ✅ Publicado         |
-| Administrator| 🪟 Windows         | Medium    | *(Próximamente)*                                                                                    | 🚧 En progreso       |
+| LinkVortex   | 🐧 Linux           | Easy      | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-es-761f4ef0d36e) | ✅ Publicado         |
+| Administrator| 🪟 Windows         | Medium    | [Administrator](https://medium.com/@pablo13villalobos/hack-the-box-machine-administrator-walkthrough-es-c53794c9c05d)  | ✅ Publicado    |
 | Hospital     | 🪟 Windows         | Medium    | *(Próximamente)*                                                                                    | 🚧 En progreso       |
 
 ---
@@ -25,6 +25,6 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 
 | Nombre       | Categoría | Dificultad | Write-Up                                                                                           | Estado              |
 |--------------|-----------|------------|-----------------------------------------------------------------------------------------------------|---------------------|
-| Flag Command | 🌐 Web    | Very Easy  | [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-en-f387461ef976) | ✅ Publicado  |
-| Spookifier   | 🌐 Web    | Very Easy  | [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-en-51e5c29e8e7f) | ✅ Publicado      |
+| Flag Command | 🌐 Web    | Very Easy  | [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-es-4c4e26521d61) | ✅ Publicado  |
+| Spookifier   | 🌐 Web    | Very Easy  | [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-es-6c1fef95d1fe) | ✅ Publicado      |
 | OnlyHacks    | 🌐 Web    | Very Easy  | *(Próximamente)*                                                                                   | 🚧 En progreso         |
