@@ -16,7 +16,7 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 | Name         | Operating System | Difficulty | Write-Up                                                                                           | Status              |
 |--------------|------------------|------------|----------------------------------------------------------------------------------------------------|---------------------|
 | LinkVortex   | 🐧 Linux          | Easy       | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-en-5d467f2eec8b) | ✅ Published         |
-| Administrator| 🪟 Windows        | Medium     | *(Coming soon)*                                                                                    | 🚧 In progress       |
+| Administrator| 🪟 Windows        | Medium     | [Administrator](https://medium.com/@pablo13villalobos/hack-the-box-machine-administrator-walkthrough-en-588555159e0c)   | ✅ Published       |
 | Hospital     | 🪟 Windows        | Medium     | *(Coming soon)*                                                                                    | 🚧 In progress       |
 
 ---
